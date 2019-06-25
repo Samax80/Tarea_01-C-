@@ -1,0 +1,10 @@
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\bin\Debug\Calculadora_new.exe.config
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\bin\Debug\Calculadora_new.exe
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\bin\Debug\Calculadora_new.pdb
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\obj\Debug\Calculadora_new.csprojAssemblyReference.cache
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\obj\Debug\Calculadora_new.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\obj\Debug\Calculadora_new.exe
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\obj\Debug\Calculadora_new.pdb
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\bin\Debug\OperacionesDLL.dll
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\bin\Debug\OperacionesDLL.pdb
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\Calculadora_new\obj\Debug\Calculadora_new.csproj.CopyComplete

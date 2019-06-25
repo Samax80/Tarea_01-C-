@@ -1,0 +1,6 @@
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\bin\Debug\OperacionesDLL.dll
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\bin\Debug\OperacionesDLL.pdb
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\obj\Debug\OperacionesDLL.csprojAssemblyReference.cache
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\obj\Debug\OperacionesDLL.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\obj\Debug\OperacionesDLL.dll
+D:\C_Sharp_Curso\Calculadora_new\Calculadora_new\OperacionesDLL\obj\Debug\OperacionesDLL.pdb
